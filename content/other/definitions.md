@@ -18,6 +18,8 @@ title: Definitions
 
 ## D
 
+* **diegetic** _(adj.)_ -- of or relating to artistic elements that are perceived as existing within the world depicted in the narrative work
+
 ## E
 
 ## F
