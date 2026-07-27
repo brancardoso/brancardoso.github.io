@@ -29,14 +29,11 @@ subgraph pt
     Int --> MaM
 
     MaM["`**MaM**
-1tb, 2r, 6mo
+1tb, 2r, 1y
 `"]
-    MaM --> ANT
-    MaM --> BBT
     MaM --> SP
     MaM --> LST
-    MaM -.->|maybe?| ATH
-    MaM -->|9mo| BLU
+    MaM --> BLU
 
     BLU["`**BLU**
 1- 20tb^, .4r, 3mo
