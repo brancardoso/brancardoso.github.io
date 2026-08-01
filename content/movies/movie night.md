@@ -14,6 +14,7 @@ Monthly (:crossed_fingers:) movie night with my doggies. Started during COVID-19
 
 |  # | Date         | Theme                             | Movie                                                                                                           | Year |
 |---:|--------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------|-----:|
+| 63 | Jul 31, 2026 | Nuclear (Robert)                  | [Grave of the Fireflies](https://www.themoviedb.org/movie/12477)                                                | 1988 |
 | 62 | Jun 26, 2026 | 3D Animation (Matt)               | [Fantastic Mr. Fox](https://www.themoviedb.org/movie/10315-fantastic-mr-fox)                                    | 2009 |
 | 61 | Jun 06, 2026 | Africa (Brandon)                  | [My Father's Shadow](https://www.themoviedb.org/movie/1432605-my-father-s-shadow)                               | 2025 |
 | 60 | May 01, 2026 | Musical (Daniel)                  | [Sweeney Todd: The Demon Barber of Fleet Street](https://www.themoviedb.org/movie/13885)                        | 2007 |
